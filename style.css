@@ -1,0 +1,30 @@
+body {
+    background-color: #696969;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.container {
+    width: 900px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px;
+    background-color: #12a384;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 22px;
+    width: 180px;
+}
+
+p {
+    letter-spacing: 1px;
+}
